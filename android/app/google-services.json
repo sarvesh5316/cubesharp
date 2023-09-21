@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878846926634",
+    "project_id": "cubesharp",
+    "storage_bucket": "cubesharp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878846926634:android:d230c6015fb2bea3004853",
+        "android_client_info": {
+          "package_name": "com.example.cubesharp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34ByhqxFgV1neq08Tz4cCrHdd21WwvXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
